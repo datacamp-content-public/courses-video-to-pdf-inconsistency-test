@@ -52,6 +52,6 @@ print(5)
 
 `@sct`
 ```{python}
-Ex().has_output(5)
+Ex().has_output('5')
 success_msg('well done!')
 ```
